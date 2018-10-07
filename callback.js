@@ -1,3 +1,3 @@
-function signSecure() {
+functio signSecure() {
     document.getElementById("notBot").submit();
 }
