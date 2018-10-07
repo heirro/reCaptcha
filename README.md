@@ -7,7 +7,7 @@ reCaptcha Google Service, development for the callback data or target.
 Just add 1 more script for callback a form reCaptcha. look display like a:
 
 * <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-* <script src="https://cdn.rawgit.com/heirro/reCaptcha/3175119d/callback.js" ></script>
+* <script src="https://cdn.rawgit.com/heirro/reCaptcha.js/441e8b5f/callback.js" ></script>
 
 # Using code
 * form id="notBot"
