@@ -9,10 +9,10 @@ Just add 1 more script for callback a form reCaptcha. look display like a:
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 ```
 ```
-<script src="https://cdn.rawgit.com/heirro/reCaptcha.js/441e8b5f/callback.js" ></script>
+<script src="https://raw.githubusercontent.com/heirro/reCaptcha.js/master/callback.js" ></script>
 ```
 
-# Using code
+## Using code
 ```
 <form id="notBot" method="" action=""></form>
 ```
