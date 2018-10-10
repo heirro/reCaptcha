@@ -22,9 +22,5 @@ Just add 1 more script for callback a form reCaptcha. look display like a:
 1. notBot in the Form as "id" calling function in the callback.js, and permanently function.
 2. signSecure add the 'data-callback' was permanently in the callback.js, you can't edited. And customized attribut use button/input.
 
-<b>note</b>:
-```
-callback.js a latest commit, that using CDN by RawGit.
-```
 Cordially, <br/>
 Vava Heirro
