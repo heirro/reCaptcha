@@ -14,7 +14,7 @@ With Direct Service **GitHub**:
 ```
 With **CDN Service**:
 ```
-<script src="https://res.cloudinary.com/heirro/raw/upload/v1540350415/callback.js" ></script>
+<script src="https://res.cloudinary.com/heirro/raw/upload/callback.js" ></script>
 ```
 
 ## Using code
