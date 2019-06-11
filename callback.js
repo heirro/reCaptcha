@@ -1,3 +1,1 @@
-function signSecure() {
-    document.getElementById("notBot").submit();
-}
+var _0x209f=["\x73\x75\x62\x6D\x69\x74","\x6E\x6F\x74\x42\x6F\x74","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64"];function signSecure(){document[_0x209f[2]](_0x209f[1])[_0x209f[0]]()}
