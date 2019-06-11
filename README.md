@@ -8,13 +8,9 @@ Just add 1 more script for callback a form reCaptcha. look display like a:
 ```
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 ```
-With Direct Service **GitHub**:
-```
-<script src="https://raw.githubusercontent.com/heirro/reCaptcha.js/master/callback.js" ></script>
-```
 With **CDN Service**:
 ```
-<script src="https://res.cloudinary.com/heirro/raw/upload/callback.js" ></script>
+<script src="https://cdn.statically.io/gh/heirro/reCaptcha.js/master/callback.js" ></script>
 ```
 
 ## Using code
